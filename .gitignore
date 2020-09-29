@@ -1,0 +1,18 @@
+# mac
+.DS_Store
+.DS_Store/*
+
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+# auth0 secret
+secret.pem
+
