@@ -2,9 +2,10 @@
 1. This app is based on **Serverless Framework** and **Amazon  lambda**.
 
 2. Function:
-   * `Create an auction` with picture and title
-   * `Bid` with a higher price
-   * `Email Notification` when the auction was closed
+   * `Create an auction` with title, picture, description and categorys.
+   * `Search auctions` by category.
+   * `Bid` with a higher price.
+   * `Email Notification` when the auction was closed.
 
 
 
