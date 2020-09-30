@@ -9,6 +9,5 @@
 
 
 ## work flow :
-
-
+![image](https://github.com/yijiegeng/sls-project/blob/master/project%20work-flow.jpeg)
 
